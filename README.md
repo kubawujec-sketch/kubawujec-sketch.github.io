@@ -1,6 +1,5 @@
 # kubawujec-sketch.github.io
-[krosno_glass_baza_wiedzy_interactive_artifact (2).html](https://github.com/user-attachments/files/28957167/krosno_glass_baza_wiedzy_interactive_artifact.2.html)
-<!DOCTYPE html>
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
